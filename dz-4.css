@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.a{
+    font-weight: 500;
+color: blue;
+}
+.b{
+    font-weight: 700;
+    color: green;
+}
+.c{
+    font-weight: 300;
+    color: red;
+}
+.d{
+    font-family: 'Dancing Script', cursive;
+    padding: 16px;
+}
+.e{
+    width: 100px;
+    height: 100px;
+   background-color: red; 
+   display: inline-block;
+}
+.f{
+    width: 100px;
+    height: 100px;
+   background-color: green;
+   display: inline-block;
+}
+.g{
+    width: 100px;
+    height: 100px;
+   background-color: yellow;
+   display: inline-block;
+}
+.r{
+ color: blue;
+ display: inline-block;
+ margin-left: 650px;
+ 
+}
+.s{
+    display: inline-block;
+margin-left: 20px;
+
+    
+}
+.o{
+    display: inline-block;
+    margin-left: 20px;
+}
